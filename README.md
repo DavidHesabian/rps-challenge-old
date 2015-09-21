@@ -1,3 +1,4 @@
+
 # RPS Challenge: Rōnin Badge Test
 
 Instructions
@@ -55,3 +56,4 @@ Use the _special_ rules ( _you can find them here http://en.wikipedia.org/wiki/R
 - Rock beats Scissors
 - Scissors beats Paper
 - Paper beats Rock
+
